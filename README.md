@@ -7,3 +7,5 @@ Fig. <code>High-level view of the data collection system.</code>
 Fig. <code>Training the neural network.</code>
 <img src="https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/inference.png" alt="The trained network is used to generate steering commands from a single front-facing center camera." >
 Fig. <code>The trained network is used to generate steering commands from a single front-facing center camera.</code>
+<img src="https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture.png" alt="CNN architecture. The network has about 27 million connections and 250 thousand parameters." >
+Fig. <code>CNN architecture. The network has about 27 million connections and 250 thousand parameters.</code>
